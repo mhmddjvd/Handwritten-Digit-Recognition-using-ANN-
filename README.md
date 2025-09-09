@@ -19,6 +19,7 @@ The implementation is based on a research paper and trained/tested with the **MN
 
 * Jupyter Notebook with ANN implementation
 * MNIST dataset files (train & test)
+    Google Drive Link: https://drive.google.com/file/d/1iJFx6DUl8ifZ5inlW1SBQq4uF-QlzV9M/view?usp=sharing
 * Reference research paper (PDF)
 
 🚀 Features
